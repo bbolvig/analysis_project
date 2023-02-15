@@ -1,5 +1,7 @@
 import data.real.basic
 
+notation `|`x`|` := abs x
+
 /-
 Dette projekt har til formål at formalisere koncepter fra reel analyse (Analyse 0).
 -/
